@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Compra_Articulo {
+public class Compra_articulo {
 
     private String codigoCart;
     private float precioUnidad;

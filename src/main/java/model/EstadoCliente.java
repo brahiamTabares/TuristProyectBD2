@@ -5,9 +5,9 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Estado_A {
+public class EstadoCliente {
 
-    private String codigo;
+    private String codEstadoc;
     private String descripcion;
 
 }
